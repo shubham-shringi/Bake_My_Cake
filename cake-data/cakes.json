@@ -1,0 +1,280 @@
+{
+  "cakes": [
+    {
+      "id": 1,
+      "name": "Berries Summer Cupcakes",
+      "price": 99,
+      "rating": 4.5,
+      "deliveryTime": "Today",
+      "quantity": "3 Cup-cakes",
+      "category": "cupCake"
+    },
+    {
+      "id": 2,
+      "name": "Classic Cheesecake",
+      "price": 399,
+      "rating": 4.9,
+      "deliveryTime": "Today",
+      "quantity": "Half kg",
+      "category": "cake"
+    },
+    {
+      "id": 3,
+      "name": "Muffin Devil Horns",
+      "price": 199,
+      "rating": 4.5,
+      "deliveryTime": "Today",
+      "quantity": "3 Muffins",
+      "category": "cupCake"
+    },
+    {
+      "id": 4,
+      "name": "Pumpkin Spice Cupcakes",
+      "price": 99,
+      "rating": 4.6,
+      "deliveryTime": "Today",
+      "quantity": "2 Cup-cakes",
+      "category": "cupCake"
+    },
+    {
+      "id": 5,
+      "name": "Chocolate Blueberries Cake",
+      "price": 699,
+      "rating": 4.8,
+      "deliveryTime": "Today",
+      "quantity": "Half kg",
+      "category": "cake"
+    },
+    {
+      "id": 6,
+      "name": "Chocolate Bonbons",
+      "price": 499,
+      "rating": 4.4,
+      "deliveryTime": "Today",
+      "quantity": "10 Bonbons",
+      "category": "cookie"
+    },
+    {
+      "id": 7,
+      "name": "Chocolate Cookies",
+      "price": 399,
+      "rating": 4.5,
+      "deliveryTime": "Today",
+      "quantity": "10 Cookies",
+      "category": "cookie"
+    },
+    {
+      "id": 8,
+      "name": "Chocolate Cupcake",
+      "price": 199,
+      "rating": 4.8,
+      "deliveryTime": "Today",
+      "quantity": "2 Cup-cakes",
+      "category": "cupCake"
+    },
+    {
+      "id": 9,
+      "name": "Chocolate Summer Berries",
+      "price": 399,
+      "rating": 4.6,
+      "deliveryTime": "Today",
+      "quantity": "Half kg",
+      "category": "cake"
+    },
+    {
+      "id": 10,
+      "name": "Brownies Different Flavor",
+      "price": 299,
+      "rating": 4.7,
+      "deliveryTime": "Today",
+      "quantity": "5 Brownies",
+      "category": "brownie"
+    },
+    {
+      "id": 11,
+      "name": "Cookies Cream Cake",
+      "price": 599,
+      "rating": 4.5,
+      "deliveryTime": "Today",
+      "quantity": "Half kg",
+      "category": "cake"
+    },
+    {
+      "id": 12,
+      "name": "Easter Cupcakes",
+      "price": 199,
+      "rating": 4.7,
+      "deliveryTime": "Today",
+      "quantity": "3 Cup-cakes",
+      "category": "cupCake"
+    },
+    {
+      "id": 13,
+      "name": "Fruit Cake",
+      "price": 599,
+      "rating": 4.8,
+      "deliveryTime": "Today",
+      "quantity": "Half kg",
+      "category": "cake"
+    },
+    {
+      "id": 14,
+      "name": "Isometric chocolate brownies",
+      "price": 199,
+      "rating": 4.3,
+      "deliveryTime": "Today",
+      "quantity": "2 Brownies",
+      "category": "brownie"
+    },
+    {
+      "id": 15,
+      "name": "Monster Theme Cake",
+      "price": 399,
+      "rating": 4.9,
+      "deliveryTime": "Today",
+      "quantity": "Half kg",
+      "category": "cake"
+    },
+    {
+      "id": 16,
+      "name": "Butter Cookies",
+      "price": 199,
+      "rating": 4.6,
+      "deliveryTime": "Today",
+      "quantity": "10 Cookies",
+      "category": "cookie"
+    },
+    {
+      "id": 17,
+      "name": "Muffin Ghost",
+      "price": 249,
+      "rating": 4.7,
+      "deliveryTime": "Today",
+      "quantity": "4 Muffins",
+      "category": "cupCake"
+    },
+    {
+      "id": 18,
+      "name": "Cherry Jelly Cheesecake",
+      "price": 499,
+      "rating": 4.9,
+      "deliveryTime": "Today",
+      "quantity": "Half kg",
+      "category": "cake"
+    }
+  ],
+  "cakeRequests": [
+    {
+      "deliveryDate": "06-10-2023",
+      "customerName": "shubham shringi",
+      "email": "test123@gmail.com",
+      "phone": 9653214505,
+      "pincode": 963654,
+      "state": "123, washington DC",
+      "id": 1
+    },
+    {
+      "quantity": 3,
+      "deliveryDate": "10-10-2023",
+      "customerName": "abc asd",
+      "email": "abc@gmail.com",
+      "phone": 8777886766,
+      "pincode": 234561,
+      "state": "qwertyiopas",
+      "cakeName": "Berries Summer Cupcakes",
+      "price": 299,
+      "totalPrice": 897,
+      "id": 2
+    },
+    {
+      "deliveryDate": "13-10-2023",
+      "customerName": "jack",
+      "email": "jack@yahoo.com",
+      "phone": 9987878788,
+      "pincode": 234432,
+      "houseNumber": "11",
+      "city": "delhi",
+      "state": "c-777 gala glory",
+      "quantity": 2,
+      "cakeName": "Pumpkin Spice Cupcakes",
+      "price": 99,
+      "totalPrice": 198,
+      "id": 3
+    },
+    {
+      "deliveryDate": "10-10-2023",
+      "customerName": "shubham shringi",
+      "email": "abc@gmail.com",
+      "phone": 8877788896,
+      "pincode": 234543,
+      "houseNumber": "11",
+      "city": "delhi",
+      "state": "orchid divine",
+      "quantity": 2,
+      "cakeName": "Berries Summer Cupcakes",
+      "price": 99,
+      "totalPrice": 198,
+      "id": 4
+    },
+    {
+      "deliveryDate": "11-10-2023",
+      "customerName": "john",
+      "email": "john123@gmail.com",
+      "phone": 8989787898,
+      "pincode": 34567,
+      "houseNumber": "41",
+      "city": "mumbai",
+      "state": "maharashtra",
+      "quantity": 2,
+      "cakeName": "Muffin Devil Horns",
+      "price": 199,
+      "totalPrice": 398,
+      "id": 5
+    },
+    {
+      "deliveryDate": "10-10-2023",
+      "customerName": "ramesh kumar",
+      "email": "ramesh@yahoo.com",
+      "phone": 7867687989,
+      "pincode": 45678,
+      "houseNumber": "31",
+      "city": "ahmedabad",
+      "state": "gujrat",
+      "quantity": 3,
+      "cakeName": "Muffin Ghost",
+      "price": 249,
+      "totalPrice": 747,
+      "id": 6
+    },
+    {
+      "quantity": 2,
+      "customerName": "Ram",
+      "email": "ram11@gmail.com",
+      "deliveryDate": "13-10-2023",
+      "phone": 7786786787,
+      "pincode": 76543,
+      "houseNumber": "27",
+      "city": "jaipur",
+      "state": "rajasthan",
+      "cakeName": "Classic Cheesecake",
+      "price": 399,
+      "totalPrice": 798,
+      "id": 7
+    },
+    {
+      "deliveryDate": "12-10-2023",
+      "customerName": "shubham shringi",
+      "email": "abc@gmail.com",
+      "phone": 7878767689,
+      "pincode": 12345,
+      "houseNumber": "21",
+      "city": "ahmedabad",
+      "state": "gujrat",
+      "quantity": 3,
+      "cakeName": "Berries Summer Cupcakes",
+      "price": 99,
+      "totalPrice": 297,
+      "id": 8
+    }
+  ]
+}

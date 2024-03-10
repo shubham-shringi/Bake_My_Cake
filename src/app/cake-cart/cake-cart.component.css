@@ -1,0 +1,115 @@
+#cake-left img {
+  width: 100%;
+  max-width: 650px;
+  height: 72vh;
+  object-fit: cover;
+  border-radius: 5px;
+  box-shadow: 1px 1px 10px #7a7979;
+}
+
+#cake-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0 70px;
+  margin-top: 60px;
+}
+
+#price {
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+#heading {
+  font-size: 30px;
+}
+
+#rating {
+  font-size: 20px;
+}
+
+small {
+  font-size: 16px;
+  font-weight: 500;
+  margin-right: 5px;
+}
+
+/* ------------------------------------------- */
+
+#date {
+  margin-right: 15px;
+}
+
+#email {
+  margin-right: 15px;
+}
+
+#pincode {
+  margin-right: 15px;
+}
+
+#quantity {
+  margin-right: 15px;
+}
+
+#cityname {
+  margin-right: 15px;
+}
+
+mat-form-field {
+  width: 250px;
+  margin-bottom: 5px;
+}
+
+#resetBtn {
+  margin-right: 15px;
+  width: 250px;
+}
+
+#orderNow {
+  width: 250px;
+}
+
+mat-radio-button {
+  margin-right: 25px;
+}
+
+mat-radio-group {
+  position: relative;
+  top: -10px;
+}
+
+#email,
+#phone {
+  margin-bottom: 25px;
+}
+
+/* ------------------------------ */
+
+@media (max-width: 1215px) {
+  #cake-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #heading {
+    margin-top: 30px;
+  }
+
+  #cake-left img {
+    height: auto;
+  }
+}
+
+@media (max-width: 680px) {
+  #cake-content {
+    padding: 0 20px;
+  }
+}
+
+@media (max-width: 518px) {
+  #orderNow {
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+}
